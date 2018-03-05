@@ -4,3 +4,4 @@
 
 - [使用 Elastic Stack 来监控和调优 Golang 应用程序](gocn/read-1.md)
 - [理解Go Context机制](gocn/read-2.md)
+- [理解Go Interface](gocn/read-3.md)
