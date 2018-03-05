@@ -15,5 +15,6 @@
 - [也谈goroutine调度器](gocn/2018-03/read-10.md)
 - [论golang Timer Reset方法使用的正确姿势](gocn/2018-03/read-11.md)
 - [timer 在 Golang 中可以有多精确？](gocn/2018-03/read-12.md)
-
+- [切片的内部实现](gocn/2018-03/read-13.md)
+- [企业级API网关的设计](gocn/2018-03/read-14.md)
 
