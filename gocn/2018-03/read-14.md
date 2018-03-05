@@ -372,6 +372,6 @@ API网关作为企业能力开放的一个门户，除了具备基本的请求�
 
     作者：微信公众号EAWorld
     
-    链接：[https://mp.weixin.qq.com/s/RuN5RfQfksQZRPACloqHEg](https://mp.weixin.qq.com/s/RuN5RfQfksQZRPACloqHEg)
+    链接：https://mp.weixin.qq.com/s/RuN5RfQfksQZRPACloqHEg
     
     著作权归作者所有。商业转载请联系作者获得授权，非商业转载请注明出处。

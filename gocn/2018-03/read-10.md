@@ -284,8 +284,8 @@ SCHED 2002ms: gomaxprocs=4 idleprocs=0 threads=23 spinningthreads=0 idlethreads=
 
 关于go scheduler调试信息输出的详细信息，可以参考Dmitry Vyukov的大作：[《Debugging performance issues in Go programs》](https://software.intel.com/en-us/blogs/2014/05/10/debugging-performance-issues-in-go-programs)。这也应该是每个gopher必读的经典文章。当然更详尽的代码可参考$GOROOT/src/runtime/proc.go中的schedtrace函数。
 
-作者：bigwhite
-
-链接：[https://tonybai.com/2017/06/23/an-intro-about-goroutine-scheduler/](https://tonybai.com/2017/06/23/an-intro-about-goroutine-scheduler/)
-
-著作权归作者所有。商业转载请联系作者获得授权，非商业转载请注明出处。
+    作者：bigwhite
+    
+    链接：https://tonybai.com/2017/06/23/an-intro-about-goroutine-scheduler/
+    
+    著作权归作者所有。商业转载请联系作者获得授权，非商业转载请注明出处。
