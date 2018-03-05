@@ -248,7 +248,7 @@ timers.rescheduling是进入了 G 的调度睡眠，而 M 并没有睡眠，让 
 6. 时钟源 [http://blog.csdn.net/droidphone/article/details/7975694](http://blog.csdn.net/droidphone/article/details/7975694)
 7. Go 源码剖析 [https://github.com/qyuhen/book/blob/master/Go%201.5%20%E6%BA%90%E7%A0%81%E5%89%96%E6%9E%90.pdf](https://github.com/qyuhen/book/blob/master/Go%201.5%20%E6%BA%90%E7%A0%81%E5%89%96%E6%9E%90.pdf)
 8. 带超时的信号量的实现 [http://lxr.free-electrons.com/source/kernel/locking/semaphore.c#L204](http://lxr.free-electrons.com/source/kernel/locking/semaphore.c#L204)
-10. 内核的时钟源 [http://blog.csdn.net/droidphone/article/details/7975694](http://blog.csdn.net/droidphone/article/details/7975694    
+10. 内核的时钟源 [http://blog.csdn.net/droidphone/article/details/7975694](http://blog.csdn.net/droidphone/article/details/7975694)
 
 
     作者：ggaaooppeenngg
