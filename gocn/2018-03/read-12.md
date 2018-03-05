@@ -253,7 +253,5 @@ timers.rescheduling是进入了 G 的调度睡眠，而 M 并没有睡眠，让 
 
 
     作者：ggaaooppeenngg
-    
     链接：https://ggaaooppeenngg.github.io/zh-CN/2016/02/09/timer%E5%9C%A8go%E5%8F%AF%E4%BB%A5%E6%9C%89%E5%A4%9A%E7%B2%BE%E7%A1%AE/
-    
     著作权归作者所有。商业转载请联系作者获得授权，非商业转载请注明出处。

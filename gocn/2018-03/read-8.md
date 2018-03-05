@@ -378,8 +378,8 @@ func dummy() {
 
 ### 五、参考资料
 
-[《A Quick Guide to Go’s Assembler》](https://golang.org/doc/asm)
-[《Go’s work-stealing scheduler》](https://rakyll.org/scheduler/)
+- [《A Quick Guide to Go’s Assembler》](https://golang.org/doc/asm)
+- [《Go’s work-stealing scheduler》](https://rakyll.org/scheduler/)
 
 文中的代码可以点击[这里](https://github.com/bigwhite/experiments/tree/master/go-sched-examples)下载。
 

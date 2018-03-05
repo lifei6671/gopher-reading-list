@@ -468,8 +468,6 @@ go官方文档中对此也有描述：
 文中的相关代码可以在[这里下载](https://github.com/bigwhite/experiments/tree/master/go_timer_reset)。
 
 
-作者：bigwhite
-
-链接：[https://tonybai.com/2017/06/23/an-intro-about-goroutine-scheduler/](https://tonybai.com/2017/06/23/an-intro-about-goroutine-scheduler/)
-
-著作权归作者所有。商业转载请联系作者获得授权，非商业转载请注明出处。
+    作者：bigwhite
+    链接：https://tonybai.com/2017/06/23/an-intro-about-goroutine-scheduler/
+    著作权归作者所有。商业转载请联系作者获得授权，非商业转载请注明出处。

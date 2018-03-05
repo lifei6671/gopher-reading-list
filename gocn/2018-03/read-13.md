@@ -201,9 +201,7 @@ func slicecopy(to, fm slice, width uintptr) int {
 copy切片会把源切片值(第二个参数值)中的元素复制到目标切片(第一个参数值)中，并返回被复制的元素个数，copy 的两个类型必须一致，并且实际复制的数量等于实际较短切片长度。
 
     作者：诺唯
-    
-    链接：[https://zhuanlan.zhihu.com/p/28399762](https://zhuanlan.zhihu.com/p/28399762)
-    
+    链接：https://zhuanlan.zhihu.com/p/28399762
     著作权归作者所有。商业转载请联系作者获得授权，非商业转载请注明出处。
 
 

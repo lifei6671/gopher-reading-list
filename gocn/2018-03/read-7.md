@@ -431,8 +431,6 @@ $go run client1.go
 
 本文比较基础，但却很重要，毕竟golang是面向大规模服务后端的，对通信环节的细节的深入理解会大有裨益。另外Go的goroutine+阻塞通信的网络通信模型降低了开发者心智负担，简化了通信的复杂性，这点尤为重要
 
-作者：bigwhite
-
-链接：[https://tonybai.com/2015/11/17/tcp-programming-in-golang/](https://tonybai.com/2015/11/17/tcp-programming-in-golang/)
-
-著作权归作者所有。商业转载请联系作者获得授权，非商业转载请注明出处。
+    作者：bigwhite
+    链接：https://tonybai.com/2015/11/17/tcp-programming-in-golang/
+    著作权归作者所有。商业转载请联系作者获得授权，非商业转载请注明出处。

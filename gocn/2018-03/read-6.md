@@ -218,13 +218,9 @@ EncodePacket(bufconn, []byte("hello"))
 我一直认为一个好的语言一定有一个设计良好的标准库，golang的标准库是作者们多年系统编程的沉淀，值得我们细细品味。
 
 
-作者：icexin
-
-链接：[https://www.jianshu.com/p/8c33f7c84509](https://www.jianshu.com/p/8c33f7c84509)
-
-來源：简书
-
-著作权归作者所有。商业转载请联系作者获得授权，非商业转载请注明出处。
+    作者：icexin
+    链接：https://www.jianshu.com/p/8c33f7c84509
+    著作权归作者所有。商业转载请联系作者获得授权，非商业转载请注明出处。
 
 
 
