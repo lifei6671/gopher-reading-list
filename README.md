@@ -21,3 +21,5 @@
 - [Golang 中使用 JSON 的小技巧](gocn/2018-03/read-16.md)
 - [Golang 垃圾回收剖析](gocn/2018-03/read-17.md)
 - [Go Channel 源码剖析](gocn/2018-03/read-18.md)
+- [Golang 内存管理](gocn/2018-03/read-19.md)
+- [golang中的锁源码实现：Mutex](gocn/2018-03/read-20.md)
