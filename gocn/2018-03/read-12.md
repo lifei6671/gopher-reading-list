@@ -250,6 +250,7 @@ timers.rescheduling是进入了 G 的调度睡眠，而 M 并没有睡眠，让 
 8. 带超时的信号量的实现 [http://lxr.free-electrons.com/source/kernel/locking/semaphore.c#L204](http://lxr.free-electrons.com/source/kernel/locking/semaphore.c#L204)
 10. 内核的时钟源 [http://blog.csdn.net/droidphone/article/details/7975694](http://blog.csdn.net/droidphone/article/details/7975694)
 
+#
 
     作者：ggaaooppeenngg
     链接：https://ggaaooppeenngg.github.io/zh-CN/2016/02/09/timer%E5%9C%A8go%E5%8F%AF%E4%BB%A5%E6%9C%89%E5%A4%9A%E7%B2%BE%E7%A1%AE/

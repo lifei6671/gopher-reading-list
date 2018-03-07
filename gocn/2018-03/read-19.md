@@ -1115,6 +1115,7 @@ tcmalloc 是一种理论，运用到实践中还要考虑工程实现的问题�
 4.  [False Sharing - wikipedia](https://en.wikipedia.org/wiki/False_sharing)
 
 
+#
 
     作者：legendtkl
     链接：http://legendtkl.com/2017/04/02/golang-alloc/

@@ -678,7 +678,7 @@ Golang 的 channel 实现集中在文件 runtime/chan.go 中，本身的代码�
 
 - Go Source Code 1.9rc1
 
-
+#
 
     作者：legendtkl
     链接：http://legendtkl.com/2017/08/06/golang-channel-implement/
