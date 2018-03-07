@@ -365,6 +365,7 @@ func (root *semaRoot) dequeue(s *sudog) {
 
 - 《Go语言学习笔记》
 
+#
 
     作者：legendtkl
     链接：http://legendtkl.com/2016/10/23/golang-mutex/
